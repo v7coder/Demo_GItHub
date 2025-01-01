@@ -1,4 +1,4 @@
 # Demo_GItHub
 Demo-File UderStanding GitHub --> Steps 
 <br>
-Author:-Vinayak Porje(C1)
+Author:-Vinayak Porje(C)
